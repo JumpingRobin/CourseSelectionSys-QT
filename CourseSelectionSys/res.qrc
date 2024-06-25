@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>never stop.png</file>
+        <file>seuIcon.png</file>
+        <file>cover01.png</file>
+        <file>backGround02.png</file>
+        <file>Genshin.png</file>
+        <file>beast.png</file>
+    </qresource>
+</RCC>
